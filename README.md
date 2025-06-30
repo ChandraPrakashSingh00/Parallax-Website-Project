@@ -16,7 +16,8 @@ A responsive parallax scrolling website built with **HTML**, **CSS**, and a touc
 
 ## 🚀 Live Preview
 
-🌐 [View Live on GitHub Pages](![Uploading Parellel Website.png…]()
+🌐 [View Live on GitHub Pages](![Uploading Parellel Website.png…](![Parellel Website](https://github.com/user-attachments/assets/67207c1b-3e39-42c0-9141-403356f13255)
+)
 )  
 *(Replace with your GitHub Pages link after deployment)*
 
